@@ -74,7 +74,7 @@ VS CODE
 
 (17) In the models/index.js file add associations constant: ![Add associations constant to models-index js file (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379868-8cbb4900-1900-11ea-98c9-7b75bad153f7.JPG)
 
-(18) At the bottom of the models/index.js file add the call to associations function.: 
+(18) At the bottom of the models/index.js file add the call to associations function.: ![Add call to associations function to models-index js file (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379877-ae1c3500-1900-11ea-9830-4bf67485b816.JPG)
 
 (19) Open config/config.json file and change settings to connect to the database.: 
 
