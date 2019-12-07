@@ -68,8 +68,7 @@ COMMAND PROMPT
     
 VS CODE
 
-(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: 
-
+(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: ![In the models folder create a rel folder and a associations js file in the rel folder (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379828-2a624880-1900-11ea-94e2-66901444b01a.JPG)
 
 (17) In the models/index.js file add associations constant: 
 
