@@ -76,7 +76,7 @@ VS CODE
 
 (18) At the bottom of the models/index.js file add the call to associations function.: ![Add call to associations function to models-index js file (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379877-ae1c3500-1900-11ea-9830-4bf67485b816.JPG)
 
-(19) Open config/config.json file and change settings to connect to the database.: 
+(19) Open config/config.json file and change settings to connect to the database.: ![Update database connection info in config-config js file (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379882-d310a800-1900-11ea-8817-8e6e03a64854.JPG)
 
 (20) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
 
