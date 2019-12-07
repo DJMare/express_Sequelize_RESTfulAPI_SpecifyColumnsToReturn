@@ -72,7 +72,7 @@ VS CODE
 
 ![Update the associations js file in the rel folder (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379856-5da4d780-1900-11ea-90d2-a7f3fc505923.JPG)
 
-(17) In the models/index.js file add associations constant: 
+(17) In the models/index.js file add associations constant: ![Add associations constant to models-index js file (Sequelize_RESTfulAPI_SpecifyColumnsToReturn)](https://user-images.githubusercontent.com/35668707/70379868-8cbb4900-1900-11ea-98c9-7b75bad153f7.JPG)
 
 (18) At the bottom of the models/index.js file add the call to associations function.: 
 
